@@ -11,7 +11,6 @@ const {Title} = Typography;
 
    const globalStats = data?.data?.stats;
    if (isFetching) return 'Loading...';
-   https://github.com/rubal7/cryptocurrencies.git 
    return (
     <>
     <Title level={2} className="heading">Global Crypo Status</Title>
